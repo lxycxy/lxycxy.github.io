@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-97a514da","path":"/tags/springboot/","title":"Springboot | Tags","lang":"en-US","frontmatter":{"title":"Springboot | Tags","layout":"Tags","blog":{"type":"category","name":"Springboot","key":"tag"}},"excerpt":"","headers":[],"git":{},"filePathRelative":null}');export{t as data};
